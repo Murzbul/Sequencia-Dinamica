@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1407985815 source:a:\proyectos\desarrollo\desarrollo escritorio\librerias c++\dinamic sequence\plain\dinamic sequence\main.cpp
+	<iostream>
+	"DSequence.h"
+
+1407986097 a:\proyectos\desarrollo\desarrollo escritorio\librerias c++\dinamic sequence\plain\dinamic sequence\dsequence.h
+	<iostream>
+	<conio.h>
+	<mem.h>
+
