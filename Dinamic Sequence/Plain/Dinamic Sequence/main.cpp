@@ -5,8 +5,6 @@
 
 int main ( void )
 {
-    DSequence<int> dsequence(1);
-
-    dsequence.Dump();
+    
 
 }

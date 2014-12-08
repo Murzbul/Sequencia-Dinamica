@@ -1,6 +1,5 @@
 #ifndef DSEQUENCE_H_INCLUDED
 #define DSEQUENCE_H_INCLUDED
-
 /********************************************
 *                                           *
 *    File        : sequence.h               *
@@ -15,6 +14,9 @@
 *    Iteration   : Plain                    *
 *                                           *
 ********************************************/
+
+
+
 
 #include <iostream>
 #include <mem.h>
