@@ -28,7 +28,6 @@ class DSequence
     typedef bool ( *Predicate )( Type item ) ;
 
 private:
-    //enum {SEQUENCE_MAX_ITEMS = 512, SEQUENCE_EMPTY = -1} ;
 
     Type* rep;
     int first;
@@ -135,7 +134,7 @@ bool DSequence<Type>::Add( const Type& item )
 template < class Type >
 Type* DSequence<Type>::First( void )
 {
-    current = rep[first];
+    current = &rep[first];
     return current;
 }
 
